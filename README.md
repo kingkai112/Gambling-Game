@@ -1,31 +1,34 @@
-# Gambling-Game
-Small Gambling game created using Python. Basic Python Knowledge Application. 
+# 🏦🎰 Banking & Slot Machine Game
 
-# 🎰 Slot Machine Game
-
-A simple **slot machine game** built with Python.  
-Players can place bets, spin the reels, and earn payouts based on matching symbols.  
-The game includes fun messages, balance tracking, and replay options.  
+A fun Python project that combines a **banking system** with a **slot machine game**.  
+Users can deposit and withdraw money, check their balance, and gamble on the slot machine — all using the same balance.  
 
 ---
 
 ## ✨ Features
-- 💵 Start with an initial balance  
-- 🎡 Spin the reels with symbols: 🍒 🍉 🔔 ⭐ 🍌  
-- 🏆 Win different payouts depending on the symbol  
-- 📉 Balance decreases with each bet  
-- 🔄 Option to play again or exit  
+- 🏦 **Banking System**  
+  - Show balance  
+  - Deposit money  
+  - Withdraw money  
+
+- 🎰 **Slot Machine**  
+  - Place bets and spin the reels  
+  - Symbols: 🍒 🍉 🔔 ⭐ 🍌  
+  - Different payouts depending on matching symbols  
+  - Balance updates automatically after wins/losses  
 
 ---
 
 ## 🛠️ Tech Stack
 - **Language**: Python 3  
+- **Modules**: `random` (for slot spins)  
 
 ---
 
 ## 🚀 How to Run
 1. Clone this repository:
    ```bash
-   git clone https://github.com/your-username/slot-machine-game.git
-   cd slot-machine-game
+   git clone https://github.com/your-username/bank-and-slot-game.git
+   cd bank-and-slot-game
    python "slot machine.py"
+   
